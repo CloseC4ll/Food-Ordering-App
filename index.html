@@ -1,0 +1,36 @@
+<html>
+    <head>
+       <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="header-bg">
+            <div class="header-text">Mamedin yeri</div>
+        </div>
+        <div id="itemcard"></div>
+        <h3 id="titletotal"> Your Order </h3>
+        <div id="receipt"></div>
+        <div class="divider"></div>
+        <div id="totalprice"></div>
+        <div class="wrapper">
+            <button id="completeorder">Complete Order</button>
+         </div>
+       
+       <div id="formmodal" class="hidden">
+            
+            <form >
+                <p id="formtitle"> Enter card details</p>
+                <input type="text" id="name-input" placeholder="Enter your name">
+                <input type="text" id="card-input" placeholder="Enter card number">
+                <input type="text" id="cvv-input" placeholder="CVV">
+                <button type="submit" id="formsubmit-btn">Submit</button>
+                
+            </form>
+        
+       </div>   
+
+       
+	<script src="index.js" type="module"></script>
+    
+    </body>
+</html>
+
