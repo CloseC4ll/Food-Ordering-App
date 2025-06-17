@@ -1,5 +1,4 @@
-"Food Ordering App to sharpen my js skills" 
-
+**Food Ordering App to sharpen my js skills** 
 
 
 ![image](https://github.com/user-attachments/assets/ad1b2888-7aed-4ec8-942b-0af99c9b5b9b)
